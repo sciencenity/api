@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\Users\gando\source\repos\apitst\ConsoleApplication1\boost_1_86_0\boost\asio\impl\src.hpp(19,1): error C1189: #error:  Do not compile Asio library source with BOOST_ASIO_HEADER_ONLY defined
+  (compiling source file 'ConsoleApplication1.cpp')
+  
